@@ -1,6 +1,8 @@
 # PHP ve MySQL ile Listeleme, Ekleme, Silme ve Güncelleme
  PHP ve MySQL ile temel CRUD işlemleri, arama vardır, yönetim paneli yoktur
 
+ phpMyAdmin içine https://github.com/tbagriyanik/PHPveMySQLOrnegi/blob/main/tatilkampanyalar.sql aktarılabilir
+
  ![Ana sayfa](https://github.com/tbagriyanik/PHPveMySQLOrnegi/blob/main/EKRAN/anaSayfa.PNG)
  ![Arama](https://github.com/tbagriyanik/PHPveMySQLOrnegi/blob/main/EKRAN/hataliArama.png)
  ![](https://github.com/tbagriyanik/PHPveMySQLOrnegi/blob/main/EKRAN/yeni.PNG)
